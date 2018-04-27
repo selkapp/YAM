@@ -1,0 +1,193 @@
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\obj\Debug\onbiraralik.csprojResolveAssemblyReference.cache
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\ApplicationInsights.config
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\onbiraralik.dll.config
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\onbiraralik.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\onbiraralik.pdb
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\Antlr3.Runtime.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\Microsoft.AI.Web.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\Newtonsoft.Json.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\System.Web.Optimization.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\WebGrease.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\Microsoft.AI.Web.xml
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\System.Web.Optimization.xml
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\Antlr3.Runtime.pdb
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\Newtonsoft.Json.xml
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\obj\Debug\onbiraralik.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\obj\Debug\onbiraralik.pdb
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\HtmlAgilityPack.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\HtmlAgilityPack.pdb
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik\onbiraralik\bin\HtmlAgilityPack.xml
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\ApplicationInsights.config
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\onbiraralik.dll.config
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\onbiraralik.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\onbiraralik.pdb
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\Antlr3.Runtime.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\HtmlAgilityPack.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AI.Web.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\Newtonsoft.Json.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\System.Web.Optimization.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\WebGrease.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\HtmlAgilityPack.pdb
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\HtmlAgilityPack.xml
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AI.Web.xml
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\System.Web.Optimization.xml
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\Antlr3.Runtime.pdb
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\Newtonsoft.Json.xml
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\obj\Debug\onbiraralik.csprojResolveAssemblyReference.cache
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\obj\Debug\onbiraralik.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\obj\Debug\onbiraralik.pdb
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\NUglify.dll
+C:\Users\Selcan Kebelioğlu\Desktop\onbiraralik - Kopya\onbiraralik\bin\NUglify.xml
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\ApplicationInsights.config
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\onbiraralik.dll.config
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\onbiraralik.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\onbiraralik.pdb
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\Antlr3.Runtime.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\HtmlAgilityPack.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AI.Web.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.ApplicationInsights.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\Newtonsoft.Json.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\NUglify.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\System.Web.Optimization.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\WebGrease.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\HtmlAgilityPack.pdb
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\HtmlAgilityPack.xml
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AI.Web.xml
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.ApplicationInsights.xml
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\NUglify.xml
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\System.Web.Optimization.xml
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\Antlr3.Runtime.pdb
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\Newtonsoft.Json.xml
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\obj\Debug\onbiraralik.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\obj\Debug\onbiraralik.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya\onbiraralik\obj\Debug\onbiraralik.pdb
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\ApplicationInsights.config
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\onbiraralik.dll.config
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\onbiraralik.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\onbiraralik.pdb
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\Antlr3.Runtime.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\HtmlAgilityPack.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AI.Web.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.ApplicationInsights.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\Newtonsoft.Json.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\NUglify.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\System.Web.Optimization.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\WebGrease.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\HtmlAgilityPack.pdb
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\HtmlAgilityPack.xml
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AI.Web.xml
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.ApplicationInsights.xml
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\NUglify.xml
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\System.Web.Optimization.xml
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\Antlr3.Runtime.pdb
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\Newtonsoft.Json.xml
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\obj\Debug\onbiraralik.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\obj\Debug\onbiraralik.dll
+C:\Users\asus\Desktop\onbiraralik - Kopya - Kopya\onbiraralik\obj\Debug\onbiraralik.pdb
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\ApplicationInsights.config
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\onbiraralik.dll.config
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\onbiraralik.dll
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\onbiraralik.pdb
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\Antlr3.Runtime.dll
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\HtmlAgilityPack.dll
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AI.Web.dll
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\Newtonsoft.Json.dll
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\NUglify.dll
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\System.Web.Optimization.dll
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\WebGrease.dll
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\HtmlAgilityPack.pdb
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\HtmlAgilityPack.xml
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AI.Web.xml
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\NUglify.xml
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\System.Web.Optimization.xml
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\Antlr3.Runtime.pdb
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\Newtonsoft.Json.xml
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\obj\Debug\onbiraralik.csprojResolveAssemblyReference.cache
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\obj\Debug\onbiraralik.dll
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\yerli_arama_motoru\onbiraralik - Kopya - Kopya\onbiraralik\obj\Debug\onbiraralik.pdb
